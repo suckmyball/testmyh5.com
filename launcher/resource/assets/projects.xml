@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+  <sceneSize height="1136" width="740" showFps="0" hasJpg="false" hasPng="false"/>
+  <info eventsheetName="MainSceneEventSheet" eventsheetUrl="MainSceneEventSheet.xml" layoutName="MainScene" layoutUrl="MainScene.xml" baseUrl="resource/scene/"/>
+  <version>1.000</version>
+</projects>
